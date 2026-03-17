@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asmitsri12" alt="asmitsri12" /></a> </p>
 
-- 🔭 I’m currently working on [campgrounds](https://github.com/AsmitSri12/campgrounds)
+- 🔭 I’m currently working on different projects which includes backend development, frontend development and more.
 
-- 🌱 I’m currently learning **Java backend and Mern Stack**
+- 🌱 I’m currently learning **Full Mern Stack**
 
 - 📫 How to reach me **asmitsri2182@gmail.com**
 
