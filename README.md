@@ -1,27 +1,77 @@
 <h1 align="center">Hi 👋, I'm Asmit Srivastava</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asmitsri12&label=Profile%20views&color=0e75b6&style=flat" alt="asmitsri12" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asmitsri12" alt="asmitsri12" /></a> </p>
-
-- 🔭 I’m currently working on different projects which includes backend development, frontend development and more.
-
-- 🌱 I’m currently learning **Full Mern Stack**
-
-- 📫 How to reach me **asmitsri2182@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/asmitsri1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asmitsri1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/asmit-srivastava-4a5011269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/asmit-srivastava-4a5011269" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=0E75B6&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Learner;Building+Scalable+Web+Apps;Always+Learning+New+Tech" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h3 align="center">🚀 Passionate Developer from India | Turning Ideas into Reality</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmitsri12&show_icons=true&locale=en&layout=compact" alt="asmitsri12" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asmitsri12&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asmitsri12&show_icons=true&locale=en" alt="asmitsri12" /></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=asmitsri12&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmitsri12&" alt="asmitsri12" /></p>
+---
+
+## 🧑‍💻 About Me
+- 🔭 Currently working on **Full Stack Development Projects**
+- 🌱 Learning and mastering **MERN Stack**
+- ⚡ Strong interest in **scalable systems & clean UI/UX**
+- 🎯 Goal: Become a **high-level full stack engineer**
+- 📫 Email: **asmitsri2182@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+<a href="https://twitter.com/asmitsri1"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://linkedin.com/in/asmit-srivastava-4a5011269"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</p>
+
+---
+
+## ⚙️ Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,nodejs,express,mongodb,java,tailwind,gcp,postman&perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asmitsri12&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=asmitsri12&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmitsri12&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asmitsri12&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Current Focus
+```text
+✔ Building Full Stack Projects
+✔ Strengthening DSA using Java
+✔ Improving Backend Architecture Skills
+✔ Exploring Real-world System Design
