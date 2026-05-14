@@ -22,6 +22,7 @@
 - ⚡ Strong interest in **scalable systems & clean UI/UX**
 - 🎯 Goal: Become a **high-level full stack engineer**
 - 📫 Email: **asmitsri2182@gmail.com**
+- 📜 Resume: **https://drive.google.com/file/d/1No63CwioJW1S6GFXECTbwj2vw_WvasPE/view?usp=drive_link**
 
 ---
 
